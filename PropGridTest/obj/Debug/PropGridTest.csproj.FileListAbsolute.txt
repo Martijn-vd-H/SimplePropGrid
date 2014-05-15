@@ -1,0 +1,15 @@
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\bin\Debug\PropGridTest.exe.config
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\bin\Debug\PropGridTest.exe
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\bin\Debug\PropGridTest.pdb
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.csprojResolveAssemblyReference.cache
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\MainWindow.g.cs
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\App.g.cs
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest_MarkupCompile.cache
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest_MarkupCompile.lref
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\MainWindow.baml
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.g.resources
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.Properties.Resources.resources
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.csproj.GenerateResource.Cache
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.exe
+C:\Users\mh\Desktop\propertyGridwpf-master\PropGridTest\obj\Debug\PropGridTest.pdb
