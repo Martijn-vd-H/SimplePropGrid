@@ -1,0 +1,11 @@
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid_MarkupCompile.cache
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid_MarkupCompile.lref
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid.dll
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid.pdb
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\bin\Debug\PropertyGrid.dll
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\bin\Debug\PropertyGrid.pdb
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid.g.resources
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid.Properties.Resources.resources
+C:\Users\mh\Desktop\propertyGridwpf-master\WpfCustomControlLibrary1\obj\Debug\PropertyGrid.csproj.GenerateResource.Cache
